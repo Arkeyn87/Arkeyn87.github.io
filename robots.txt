@@ -1,0 +1,5 @@
+# robots.txt кладётся в КОРЕНЬ домена (репозиторий Arkeyn87.github.io), а не в папку сайта.
+User-agent: *
+Allow: /
+
+Sitemap: https://arkeyn87.github.io/arkeyn-apps/sitemap.xml
